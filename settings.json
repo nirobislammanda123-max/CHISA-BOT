@@ -1,7 +1,7 @@
 {
   "bot": {
-    "name": "CHISA",
-    "phoneNumber": "8801806XXXXXX",
+    "name": "Evan baby",
+    "phoneNumber": "8801796121501",
     "customPairingCode": "",
     "thumbnail": "public/thumbnail.jpg",
     "groupJid": "",
@@ -9,15 +9,15 @@
     "prefix": ","
   },
   "owner": {
-    "name": "SIFAT",
-    "organization": "CHISA",
-    "id": "8801806XXXXXX",
+    "name": "EVAN AHMED NIROB",
+    "organization": "Evan baby",
+    "id": "8801796121501",
     "report": true,
-    "co": ["880193XXXXXX"]
+    "co": ["8801796121501"]
   },
   "sticker": {
-    "packname": "CHISA",
-    "author": "SIFAT"
+    "packname": "Evan baby",
+    "author": "EVAN AHMED NIROB"
   },
   "msg": {
     "admin": "This command can only be used by group admins!",
@@ -35,7 +35,7 @@
     "gamerestrict": "Game commands are currently restricted to group admins and the owner.",
     "restrict": "This command is currently restricted!",
     "unavailableAtNight": "Bot is unavailable from 12 AM to 6 AM. Please try later.",
-    "footer": "CHISA — by SIFAT ♡",
+    "footer": "EVAN AHMED NIROB ♡",
     "wait": "Please wait...",
     "notFound": "Nothing found! Please try again.",
     "urlInvalid": "Invalid URL! Please provide a valid link."
